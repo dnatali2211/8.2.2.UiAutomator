@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="ru.netology.testing.uiautomator.ChangeTextTest" tests="1" failures="0" errors="0" skipped="0" time="8.348" timestamp="2023-12-13T12:55:22" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_6a_API_UpsideDownCakePrivacySandbox(AVD) - 14" />
+    <property name="flavor" value="" />
+    <property name="project" value="app" />
+  </properties>
+  <testcase name="testShouldOpenChangedTextInAnotherActivity" classname="ru.netology.testing.uiautomator.ChangeTextTest" time="7.422" />
+</testsuite>

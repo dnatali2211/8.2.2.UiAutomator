@@ -1,0 +1,235 @@
+12-13 16:54:12.185 12407 12430 I TestRunner: started: testShouldOpenChangedTextInAnotherActivity(ru.netology.testing.uiautomator.ChangeTextTest)
+12-13 16:54:12.189 12407 12430 I UiAutomation: Initialized for user 0 on display 0
+12-13 16:54:12.196  1534  3789 I AiAiEcho: Settings changed for uri: content://settings/secure/accessibility_enabled
+12-13 16:54:12.201  1534  1908 I AiAiEcho: Predicting[0]:
+12-13 16:54:12.201  1534  1908 I AiAiEcho: EchoTargets:
+12-13 16:54:12.201  1534  1908 I AiAiEcho: Filtered by AiAi flag check:
+12-13 16:54:12.203  1534  1908 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:
+12-13 16:54:12.207  1534  1908 I AiAiEcho: Predicting[0]:
+12-13 16:54:12.207  1534  1908 I AiAiEcho: EchoTargets:
+12-13 16:54:12.207  1534  1908 I AiAiEcho: Filtered by AiAi flag check:
+12-13 16:54:12.208  1534  1908 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:
+12-13 16:54:12.209  1534  1908 I AiAiEcho: Predicting[0]:
+12-13 16:54:12.209  1534  1908 I AiAiEcho: EchoTargets:
+12-13 16:54:12.209  1534  1908 I AiAiEcho: Filtered by AiAi flag check:
+12-13 16:54:12.209  1534  1908 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:
+12-13 16:54:12.215  1534  3789 I AiAiEcho: Settings changed for uri: content://settings/secure/accessibility_enabled
+12-13 16:54:12.220  1534  1908 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface lockscreen with targets# 0 (types=[])
+12-13 16:54:12.224  1584  2315 I A11yListener: (REDACTED) #onAccessibilityStateChanged enabled: %s
+12-13 16:54:12.224  1534  1908 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface media_data_manager with targets# 0 (types=[])
+12-13 16:54:12.225  1534  1908 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+12-13 16:54:12.225  1534  1908 I AiAiEcho: Predicting[0]:
+12-13 16:54:12.225  1534  1908 I AiAiEcho: EchoTargets:
+12-13 16:54:12.225  1534  1908 I AiAiEcho: Filtered by AiAi flag check:
+12-13 16:54:12.225  1534  1908 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:
+12-13 16:54:12.225  1534  1908 I AiAiEcho: Predicting[0]:
+12-13 16:54:12.225  1534  1908 I AiAiEcho: EchoTargets:
+12-13 16:54:12.225  1534  1908 I AiAiEcho: Filtered by AiAi flag check:
+12-13 16:54:12.226  1534  1908 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:
+12-13 16:54:12.226  1534  1908 I AiAiEcho: Predicting[0]:
+12-13 16:54:12.226  1534  1908 I AiAiEcho: EchoTargets:
+12-13 16:54:12.226  1534  1908 I AiAiEcho: Filtered by AiAi flag check:
+12-13 16:54:12.226  1534  1908 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:
+12-13 16:54:12.234  1534  1908 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface lockscreen with targets# 0 (types=[])
+12-13 16:54:12.242  1534  1908 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface media_data_manager with targets# 0 (types=[])
+12-13 16:54:12.242  5176  5256 I A       : NGA disabled due to not being eligible.
+12-13 16:54:12.244  1534  1908 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+12-13 16:54:12.250  1584  2652 I A11yListener: #onChange
+12-13 16:54:12.253  1584  2652 E TraceManager: Duplicate trace
+12-13 16:54:12.253  1584  2652 E TraceManager: com.google.apps.tiktok.tracing.w: Starting new trace A11yEventListener_onChange when already associated with a trace: . For more help, see http://go/tiktok-tracing#fixing-duplicate-trace-issues
+12-13 16:54:12.253  1584  2652 E TraceManager: 	at com.google.apps.tiktok.tracing.el.f(PG:6)
+12-13 16:54:12.253  1584  2652 E TraceManager: 	at com.google.apps.tiktok.tracing.el.g(PG:2)
+12-13 16:54:12.253  1584  2652 E TraceManager: 	at com.google.apps.tiktok.tracing.dv.d(PG:1)
+12-13 16:54:12.253  1584  2652 E TraceManager: 	at com.google.android.libraries.search.assistant.a.g.a(PG:7)
+12-13 16:54:12.253  1584  2652 E TraceManager: 	at com.google.android.libraries.search.assistant.a.b.b(PG:2)
+12-13 16:54:12.253  1584  2652 E TraceManager: 	at i.c.b.a.a.h(PG:4)
+12-13 16:54:12.253  1584  2652 E TraceManager: 	at kotlinx.coroutines.bk.run(PG:14)
+12-13 16:54:12.253  1584  2652 E TraceManager: 	at com.google.apps.tiktok.coroutines.g.run(PG:1)
+12-13 16:54:12.253  1584  2652 E TraceManager: 	at com.google.android.libraries.i.z.run(PG:1)
+12-13 16:54:12.253  1584  2652 E TraceManager: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+12-13 16:54:12.253  1584  2652 E TraceManager: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+12-13 16:54:12.253  1584  2652 E TraceManager: 	at com.google.android.libraries.i.h.run(PG:2)
+12-13 16:54:12.253  1584  2652 E TraceManager: 	at java.lang.Thread.run(Thread.java:1012)
+12-13 16:54:12.253  1584  2652 E TraceManager: 	at com.google.android.libraries.i.ai.run(PG:5)
+12-13 16:54:12.253  1584  2652 E TraceManager: 	Suppressed: com.google.apps.tiktok.tracing.fv:
+12-13 16:54:12.253  1584  2652 E TraceManager: 		at tk_trace.(Unknown Source:0)
+12-13 16:54:12.253  1584  2652 E TraceManager: 		at tk_trace.Missing root trace(Unknown Source:0)
+12-13 16:54:12.253  1584  2652 E TraceManager: Caused by: com.google.apps.tiktok.tracing.aa
+12-13 16:54:12.253  1584  2652 I Ma-Fcf-A11yChangeNotifier: #FCF: onChange
+12-13 16:54:12.254   567  1638 D SafetySourceDataValidator: No cert check requested for package com.google.android.permissioncontroller
+12-13 16:54:12.255  1584  2593 I A       : (REDACTED) #FCF: Assistant primary locale : %s
+12-13 16:54:12.256  1584  2593 I A       : (REDACTED) #FCF: Assistant Primary locale check status : %s
+12-13 16:54:12.257  1584  2652 I A       : FCF A11y Checker - readyForTngMa
+12-13 16:54:12.257  1584  2652 I A       : (REDACTED) #FCF: Continued Conversation Mode Enabled: %s
+12-13 16:54:12.258  1584  2593 I A       : (REDACTED) #FCF: Headset Connected Status: %s
+12-13 16:54:12.259   781   781 W PageIndicator: Total number of pages invalid: 0. Assuming 1 page.
+12-13 16:54:12.260  1584  2593 W A       : Unable to check for productivity accounts. Assuming there are none.
+12-13 16:54:12.260  1584  2593 W A       : com.google.android.libraries.geller.portable.GellerException: Code: INVALID_ARGUMENT, Message: Account name is null.
+12-13 16:54:12.260  1584  2593 W A       : 	at com.google.android.libraries.search.h.k.a(PG:6)
+12-13 16:54:12.260  1584  2593 W A       : 	at com.google.apps.tiktok.tracing.es.a(PG:3)
+12-13 16:54:12.260  1584  2593 W A       : 	at com.google.common.w.a.bc.a(PG:1)
+12-13 16:54:12.260  1584  2593 W A       : 	at com.google.common.w.a.cw.run(PG:4)
+12-13 16:54:12.260  1584  2593 W A       : 	at com.google.android.libraries.i.z.run(PG:1)
+12-13 16:54:12.260  1584  2593 W A       : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+12-13 16:54:12.260  1584  2593 W A       : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+12-13 16:54:12.260  1584  2593 W A       : 	at com.google.android.libraries.i.h.run(PG:2)
+12-13 16:54:12.260  1584  2593 W A       : 	at java.lang.Thread.run(Thread.java:1012)
+12-13 16:54:12.260  1584  2593 W A       : 	at com.google.android.libraries.i.ai.run(PG:5)
+12-13 16:54:12.260   781   781 D SsMediaDataProvider: Forwarding Smartspace updates []
+12-13 16:54:12.260   781   781 W PageIndicator: Total number of pages invalid: 0. Assuming 1 page.
+12-13 16:54:12.261   781   781 D SsMediaDataProvider: Forwarding Smartspace updates []
+12-13 16:54:12.283  1584  2652 I A       : (REDACTED) #FCF evaluate: %s
+12-13 16:54:12.283  1584  2652 I A       : (REDACTED) TngMaStatusChecker#evaluateInternal completed in %s millis
+12-13 16:54:12.284  1584  2652 I Ma-Entry-Triggering: (REDACTED) TNG:MA status updated: %s
+12-13 16:54:12.284  1584  2652 I Ma-Entry-Triggering: TNG:MA became ineligible, client should disconnect
+12-13 16:54:12.285  1584  2652 I Ma-Entry-Triggering: #disconnectAndStop - preventing double stop
+12-13 16:54:12.286  1584  2652 I A       : #invalidationSource: adding headset checker
+12-13 16:54:12.286  1584  2652 I A       : #invalidationSource : adding a11y checker
+12-13 16:54:12.773   781   781 I vol.VolumeDialogImpl: mDialog.dismiss() reason: volume_controller from: com.android.systemui.volume.VolumeDialogImpl$7.onDismissRequested:3
+12-13 16:54:12.797   781 11984 D KeyguardService: setOccluded(false)
+12-13 16:54:12.797   781 11984 D KeyguardViewMediator: setOccluded(false)
+12-13 16:54:12.797   781   781 D KeyguardViewMediator: handleSetOccluded(false)
+12-13 16:54:12.802   567  1590 W AppSearchIcing: icing-search-engine.cc:283: Error: 5, Message: Document (com.google.android.googlequicksearchbox$OneSearchZeroStateGoogleSuggestions/default, zp) not found.
+12-13 16:54:12.804  1020  1852 E OneSearchSuggestProvider: Failed to fetch suggestions from AppSearch, fallback to AGA
+12-13 16:54:12.804  1020  1852 E OneSearchSuggestProvider: java.util.concurrent.CompletionException: java.util.NoSuchElementException: No value present
+12-13 16:54:12.804  1020  1852 E OneSearchSuggestProvider: 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:308)
+12-13 16:54:12.804  1020  1852 E OneSearchSuggestProvider: 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:323)
+12-13 16:54:12.804  1020  1852 E OneSearchSuggestProvider: 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:684)
+12-13 16:54:12.804  1020  1852 E OneSearchSuggestProvider: 	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:486)
+12-13 16:54:12.804  1020  1852 E OneSearchSuggestProvider: 	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2138)
+12-13 16:54:12.804  1020  1852 E OneSearchSuggestProvider: 	at com.google.android.apps.nexuslauncher.allapps.H0.onResult(Unknown Source:59)
+12-13 16:54:12.804  1020  1852 E OneSearchSuggestProvider: 	at android.app.appsearch.SearchSessionUtil$1.lambda$onResult$0(SearchSessionUtil.java:129)
+12-13 16:54:12.804  1020  1852 E OneSearchSuggestProvider: 	at android.app.appsearch.SearchSessionUtil$1.$r8$lambda$_nlk9WiPjSfaAsqKYmp0aPvSRC0(SearchSessionUtil.java:1)
+12-13 16:54:12.804  1020  1852 E OneSearchSuggestProvider: 	at android.app.appsearch.SearchSessionUtil$1$$ExternalSyntheticLambda0.run(R8$$SyntheticClass:13)
+12-13 16:54:12.804  1020  1852 E OneSearchSuggestProvider: 	at android.os.Handler.handleCallback(Handler.java:958)
+12-13 16:54:12.804  1020  1852 E OneSearchSuggestProvider: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+12-13 16:54:12.804  1020  1852 E OneSearchSuggestProvider: 	at android.os.Looper.loopOnce(Looper.java:205)
+12-13 16:54:12.804  1020  1852 E OneSearchSuggestProvider: 	at android.os.Looper.loop(Looper.java:294)
+12-13 16:54:12.804  1020  1852 E OneSearchSuggestProvider: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-13 16:54:12.804  1020  1852 E OneSearchSuggestProvider: Caused by: java.util.NoSuchElementException: No value present
+12-13 16:54:12.804  1020  1852 E OneSearchSuggestProvider: 	at java.util.Optional.get(Optional.java:144)
+12-13 16:54:12.804  1020  1852 E OneSearchSuggestProvider: 	at com.google.android.apps.nexuslauncher.allapps.H0.onResult(Unknown Source:16)
+12-13 16:54:12.804  1020  1852 E OneSearchSuggestProvider: 	... 8 more
+12-13 16:54:12.804  1020  1852 D OneSearchSuggestProvider: Established or reuse existing binder channel authority=com.google.android.googlequicksearchbox
+12-13 16:54:12.804   781   781 I vol.VolumeDialogImpl: mDialog.dismiss() reason: volume_controller from: com.android.systemui.volume.VolumeDialogImpl$7.onDismissRequested:3
+12-13 16:54:12.804   781   781 D vol.VolumeDialogImpl: dismissH: skipping dismiss because isAnimatingDismiss is true and showingStateInconsistent is false
+12-13 16:54:12.807  1020  1083 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=workspace/0/[-1,-1]/[1,1]
+12-13 16:54:12.808  1534  1908 I AiAiEcho: Predicting[0]:
+12-13 16:54:12.808  1534  1908 I AiAiEcho: EchoTargets:
+12-13 16:54:12.808  1534  1908 I AiAiEcho: Filtered by AiAi flag check:
+12-13 16:54:12.808  1534  1908 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:
+12-13 16:54:12.810  1534  1908 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+12-13 16:54:12.822  1020  1020 D SearchTargetUtil:  query= size=15
+12-13 16:54:12.822  1020  1020 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=toxic movie yash,group_id=web793394,response_id=e06da7da-3614-45c0-9390-67a460dff58f,support_query_builder=false,} searchAction=toxic movie yash searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=false,suggestion_action_rpc=2,}ParentID: null targetID: b48c1893-c823-4b23-885c-30c94efd4a4b
+12-13 16:54:12.822  1020  1020 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=demon slayer hashira training arc,group_id=web793394,response_id=e06da7da-3614-45c0-9390-67a460dff58f,support_query_builder=false,} searchAction=demon slayer hashira training arc searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=false,suggestion_action_rpc=2,}ParentID: null targetID: e632ffbd-c971-4063-8147-2709c416d7b6
+12-13 16:54:12.822  1020  1020 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=anupama written update,group_id=web793394,response_id=e06da7da-3614-45c0-9390-67a460dff58f,support_query_builder=false,} searchAction=anupama written update searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=false,suggestion_action_rpc=2,}ParentID: null targetID: 5e85154c-5b87-4cef-b326-9478867303a3
+12-13 16:54:12.822  1020  1020 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=capricorn horoscope today,group_id=web793394,response_id=e06da7da-3614-45c0-9390-67a460dff58f,support_query_builder=false,} searchAction=capricorn horoscope today searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=false,suggestion_action_rpc=2,}ParentID: null targetID: f9fdd430-8bf0-4223-8add-ec0a5c21efec
+12-13 16:54:12.822  1020  1020 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=abbottabad vs karachi,group_id=web793394,response_id=e06da7da-3614-45c0-9390-67a460dff58f,support_query_builder=false,} searchAction=abbottabad vs karachi searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=false,suggestion_action_rpc=2,}ParentID: null targetID: 0da29470-6674-4c59-af24-e7d3f67640cd
+12-13 16:54:12.822  1020  1020 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=global strike gaza,group_id=web793394,response_id=e06da7da-3614-45c0-9390-67a460dff58f,support_query_builder=false,} searchAction=global strike gaza searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=false,suggestion_action_rpc=2,}ParentID: null targetID: 37d9e334-33c9-4e8f-9236-1b7263202fd7
+12-13 16:54:12.822  1020  1020 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=manu ahuja jubilant,group_id=web793394,response_id=e06da7da-3614-45c0-9390-67a460dff58f,support_query_builder=false,} searchAction=manu ahuja jubilant searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=false,suggestion_action_rpc=2,}ParentID: null targetID: fdb32e50-86a8-4f3f-a946-08674292fd69
+12-13 16:54:12.822  1020  1020 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=bridgerton season 3,group_id=web793394,response_id=e06da7da-3614-45c0-9390-67a460dff58f,support_query_builder=false,} searchAction=bridgerton season 3 searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=false,suggestion_action_rpc=2,}ParentID: null targetID: 835b4529-29d1-40a8-b8cf-1475de07a238
+12-13 16:54:12.822  1020  1020 D SearchTargetUtil: layoutType=extra_tall_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{bitmap_url=data:image/jpeg;base64,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,suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=true,is_personal=false,suggest_raw_text=mp dhiraj sahu,group_id=web793394,response_id=e06da7da-3614-45c0-9390-67a460dff58f,support_query_builder=false,} searchAction=mp dhiraj sahu searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=false,suggestion_action_rpc=2,}ParentID: null targetID: bd200251-bf2f-4df5-8d75-27759decf5fe
+12-13 16:54:12.822  1020  1020 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=legends cricket league scorecard,group_id=web793394,response_id=e06da7da-3614-45c0-9390-67a460dff58f,support_query_builder=false,} searchAction=legends cricket league scorecard searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=false,suggestion_action_rpc=2,}ParentID: null targetID: c51856be-873b-4e09-bea6-83dea612363e
+12-13 16:54:12.822  1020  1020 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=yeh rishta kya kehlata written update,group_id=web793394,response_id=e06da7da-3614-45c0-9390-67a460dff58f,support_query_builder=false,} searchAction=yeh rishta kya kehlata written update searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=false,suggestion_action_rpc=2,}ParentID: null targetID: 1ee7f4ed-79c1-46ce-ab93-cddb964b149c
+12-13 16:54:12.822  1020  1020 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=sudan uae,group_id=web793394,response_id=e06da7da-3614-45c0-9390-67a460dff58f,support_query_builder=false,} searchAction=sudan uae searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=false,suggestion_action_rpc=2,}ParentID: null targetID: f7e8f9df-bde8-46be-aa0c-eaba9c09235c
+12-13 16:54:12.822  1020  1020 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=clat result 2024,group_id=web793394,response_id=e06da7da-3614-45c0-9390-67a460dff58f,support_query_builder=false,} searchAction=clat result 2024 searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=false,suggestion_action_rpc=2,}ParentID: null targetID: 7b971953-733f-427a-8f8c-1785309430c4
+12-13 16:54:12.822  1020  1020 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=kerala vs rajasthan live score,group_id=web793394,response_id=e06da7da-3614-45c0-9390-67a460dff58f,support_query_builder=false,} searchAction=kerala vs rajasthan live score searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=false,suggestion_action_rpc=2,}ParentID: null targetID: bc7d5e2d-3439-43b3-9b2c-572522276d66
+12-13 16:54:12.822  1020  1020 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=india vs south africa cricket match,group_id=web793394,response_id=e06da7da-3614-45c0-9390-67a460dff58f,support_query_builder=false,} searchAction=india vs south africa cricket match searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=false,suggestion_action_rpc=2,}ParentID: null targetID: 14d5979a-b72e-4300-8889-b4e3f6d0182d
+12-13 16:54:13.798 12407 12430 W InteractionController: runAndwaitForEvents timed out waiting for events
+12-13 16:54:14.627 12296 12298 I AidlLazyServiceRegistrar: Process has 0 (of 1 available) client(s) in use after notification artd has clients: 0
+12-13 16:54:14.627 12296 12298 I AidlLazyServiceRegistrar: Trying to shut down the service. No clients in use for any service in process.
+12-13 16:54:14.630 12296 12298 I AidlLazyServiceRegistrar: Unregistered all clients and exiting
+12-13 16:54:16.343 11713 11730 I IPCThreadState: oneway function results for code 2 on binder at 0xb400007d71e6dc10 will be dropped but finished with status UNKNOWN_TRANSACTION
+12-13 16:54:16.361 11732 11732 I Finsky:background: [2] urs.onTrimMemory(13): Memory trim requested to level 40
+12-13 16:54:16.384   781   781 D StatusBarIconController: ignoring old pipeline callbacks, because the new mobile icons are enabled
+12-13 16:54:19.031   781   915 E OpenGLRenderer: Unable to match the desired swap behavior.
+12-13 16:54:19.042   387   387 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+12-13 16:54:19.053 12407 12440 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+12-13 16:54:19.071 12407 12440 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+12-13 16:54:19.089 12407 12440 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+12-13 16:54:19.110  1584  1584 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+12-13 16:54:19.113  1020  1706 D EGL_emulation: app_time_stats: avg=7880.10ms min=7880.10ms max=7880.10ms count=1
+12-13 16:54:19.113  1584  2317 I HwDetectorWithState: (REDACTED) a: %d
+12-13 16:54:19.122 12407 12407 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@b9be360 in: PRE_ON_CREATE
+12-13 16:54:19.133 12407 12407 D CompatibilityChangeReporter: Compat change id reported: 210923482; UID 10191; state: DISABLED
+12-13 16:54:19.134 12407 12407 D CompatibilityChangeReporter: Compat change id reported: 37756858; UID 10191; state: ENABLED
+12-13 16:54:19.170 12407 12407 W ing.uiautomator: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+12-13 16:54:19.171 12407 12407 W ing.uiautomator: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+12-13 16:54:19.174 12407 12407 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@b9be360 in: CREATED
+12-13 16:54:19.178 12407 12407 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@b9be360 in: STARTED
+12-13 16:54:19.181 12407 12407 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@b9be360 in: RESUMED
+12-13 16:54:19.184 12407 12407 D CompatibilityChangeReporter: Compat change id reported: 237531167; UID 10191; state: DISABLED
+12-13 16:54:19.185 12407 12407 W OpenGLRenderer: Unknown dataspace 0
+12-13 16:54:19.214   781   915 D EGL_emulation: app_time_stats: avg=19156.98ms min=19156.98ms max=19156.98ms count=1
+12-13 16:54:19.216 12407 12438 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+12-13 16:54:19.216 12407 12438 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+12-13 16:54:19.229   160   160 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+12-13 16:54:19.229 12407 12438 I Gralloc4: mapper 4.x is not supported
+12-13 16:54:19.243 12407 12438 E OpenGLRenderer: Unable to match the desired swap behavior.
+12-13 16:54:19.307   567   585 W ziparchive: Unable to open '/data/app/~~qiJmk9vpiV01_kV0_rExLw==/ru.netology.testing.uiautomator-djJzZCMJVp0rDLtuT6fUYQ==/base.dm': No such file or directory
+12-13 16:54:19.311   567   585 I ActivityTaskManager: Displayed ru.netology.testing.uiautomator/.MainActivity for user 0: +360ms
+12-13 16:54:19.328   567   764 I ImeTracker: ru.netology.testing.uiautomator:e85ae666: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+12-13 16:54:19.329   567   764 I ImeTracker: ru.netology.testing.uiautomator:e85ae666: onCancelled at PHASE_SERVER_SHOULD_HIDE
+12-13 16:54:19.337  4936  4936 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+12-13 16:54:19.352  4936  4936 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+12-13 16:54:19.353  4936  4936 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=ru.netology.testing.uiautomator fieldId=0 fieldName=null extras=null}, false)
+12-13 16:54:19.353  4936  4936 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+12-13 16:54:19.354  4936  4936 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+12-13 16:54:19.403  1020  1852 D OneSearchSuggestProvider: Shut down the binder channel
+12-13 16:54:19.404  1020  1082 I ImeTracker: com.google.android.apps.nexuslauncher:b1223bab: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT
+12-13 16:54:19.404  1020  1082 I ImeTracker: com.google.android.apps.nexuslauncher:b1223bab: onFailed at PHASE_CLIENT_VIEW_SERVED
+12-13 16:54:19.405  1020  3881 I IPCThreadState: oneway function results for code 2 on binder at 0xb400007d71e60fe0 will be dropped but finished with status UNKNOWN_TRANSACTION
+12-13 16:54:19.414   781   915 D EGL_emulation: app_time_stats: avg=21354.30ms min=28.99ms max=191620.61ms count=9
+12-13 16:54:19.580   781   878 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@6f7b92d
+12-13 16:54:19.581   567  1055 W InputManager-JNI: Input channel object '3b059cc Splash Screen ru.netology.testing.uiautomator (client)' was disposed without first being removed with the input manager!
+12-13 16:54:19.631   781   878 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 179859, 13499158, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+12-13 16:54:19.631   781   878 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 180199, 0, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+12-13 16:54:19.631   781   878 W FrameTracker: Missing HWUI jank callback for vsyncId: 180199, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+12-13 16:54:19.631   781   878 W FrameTracker: Missing HWUI jank callback for vsyncId: 180229, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+12-13 16:54:19.631   781   878 W FrameTracker: Missed SF frame:PREDICTION_ERROR, 180244, 1940417, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+12-13 16:54:19.693  6256 10327 I FontLog : (REDACTED) Received query %s, URI %s
+12-13 16:54:19.694  6256 10327 I FontLog : (REDACTED) Query [%s] resolved to %s
+12-13 16:54:19.698  6256 10327 I FontLog : (REDACTED) Fetch %s end status %s
+12-13 16:54:19.702  6256 10327 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+12-13 16:54:19.705  6256 10327 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+12-13 16:54:20.129  4936  4936 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():82 initialize...
+12-13 16:54:20.130  4936  4936 I ShortcutsDataManager: ShortcutsDataManager.onContentChanged():70 onContentChanged()
+12-13 16:54:20.130  4936  4936 I ContactsDataManager: ContactsDataManager.onContentChanged():156 onContentChanged()
+12-13 16:54:20.130  4936  4936 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():94 initialize...done
+12-13 16:54:20.442   781   915 D EGL_emulation: app_time_stats: avg=22.15ms min=13.04ms max=65.25ms count=46
+12-13 16:54:20.668   384   473 D audioserver: FGS Logger Transaction failed
+12-13 16:54:20.668   384   473 D audioserver: -129
+12-13 16:54:20.674 12407 12438 D EGL_emulation: app_time_stats: avg=113.42ms min=0.58ms max=542.15ms count=11
+12-13 16:54:20.676 12407 12407 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@b9be360 in: PAUSED
+12-13 16:54:20.679   384   487 D AudioFlinger: mixer(0xb400007834d65930) throttle end: throttle time(42)
+12-13 16:54:20.737   387   387 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+12-13 16:54:20.763 12407 12407 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.ShowTextActivity@a8dfb3b in: PRE_ON_CREATE
+12-13 16:54:20.771 12407 12407 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.ShowTextActivity@a8dfb3b in: CREATED
+12-13 16:54:20.772 12407 12407 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.ShowTextActivity@a8dfb3b in: STARTED
+12-13 16:54:20.772 12407 12407 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.ShowTextActivity@a8dfb3b in: RESUMED
+12-13 16:54:20.785 12407 12438 E OpenGLRenderer: Unable to match the desired swap behavior.
+12-13 16:54:20.794   567   585 I ActivityTaskManager: Displayed ru.netology.testing.uiautomator/.ShowTextActivity for user 0: +126ms
+12-13 16:54:20.801   384   487 D audioserver: FGS Logger Transaction failed
+12-13 16:54:20.801   384   487 D audioserver: -129
+12-13 16:54:20.909   567  1055 I ImeTracker: ru.netology.testing.uiautomator:a4f59211: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+12-13 16:54:20.909   567  1055 I ImeTracker: ru.netology.testing.uiautomator:a4f59211: onCancelled at PHASE_SERVER_SHOULD_HIDE
+12-13 16:54:20.910  4936  4936 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+12-13 16:54:20.911  4936  4936 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+12-13 16:54:20.911  4936  4936 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=ru.netology.testing.uiautomator fieldId=0 fieldName=null extras=null}, false)
+12-13 16:54:20.911  4936  4936 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+12-13 16:54:20.912  4936  4936 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+12-13 16:54:20.913  4936  4936 I ShortcutsDataManager: AbstractContentDataManager.startImportContentTask():234 startImportContentTask()
+12-13 16:54:20.914  4936  5054 I ShortcutsDataManager: AbstractContentDataManager$ImportContentTask.doInBackground():248 doInBackground()
+12-13 16:54:20.914  4936  5054 I PersonalDictionaryDataHandler: PersonalDictionaryDataHandler.beginProcess():111 LanguageTags = [en-US]
+12-13 16:54:20.972  4936  5054 I ShortcutsDataManager: AbstractContentDataManager.importRecords():338 importRecords() : Success : Count = 0
+12-13 16:54:20.978  4936  5054 I ShortcutsDataManager: AbstractContentDataManager.importContentData():288 importContentData() : Ending import process
+12-13 16:54:20.980  4936  5101 I Delight5Decoder: Delight5DecoderWrapper.unloadLanguageModel():857 unloadLanguageModel() : 4, version [n/a]
+12-13 16:54:20.994  4936  5054 I PersonalLanguageModelUpdater: PersonalLanguageModelUpdater$UpdateOperation.performInternal():162 run() : Added 0 words and 0 shortcuts
+12-13 16:54:20.994  4936  5054 I DynamicLanguageModelOperation: DynamicLanguageModelOperation.perform():41 perform() : 4 : cje : Completed
+12-13 16:54:20.994  4936  5101 I Delight5Decoder: Delight5DecoderWrapper.loadLanguageModel():649 loadLanguageModel() : 4, version [n/a]
+12-13 16:54:20.994  4936  4936 I ShortcutsDataManager: AbstractContentDataManager$ImportContentTask.onPostExecute():259 onPostExecute() : Result = [2,0]
+12-13 16:54:20.995  4936  4936 I ShortcutsDataManager: ShortcutsDataManager.onImportFinished():80 onImportFinished() : Result = 2 : Count = 0
+12-13 16:54:20.995  4936  5101 I Delight5Decoder: Delight5DecoderWrapper.loadLanguageModel():690 Loaded dynamic LM 4.en
+12-13 16:54:21.292 12407 12438 D OpenGLRenderer: endAllActiveAnimators on 0xb400007c51e441d0 (RippleDrawable) with handle 0xb400007d71e63fb0
+12-13 16:54:21.296 12407 12407 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@b9be360 in: STOPPED
+12-13 16:54:22.673 12407 12430 I TestRunner: finished: testShouldOpenChangedTextInAnotherActivity(ru.netology.testing.uiautomator.ChangeTextTest)
